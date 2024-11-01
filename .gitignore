@@ -1,0 +1,17 @@
+Formalities/
+*.pdf
+*.jpg
+*.jpeg
+*.png
+*.avi
+*.mp4
+*.docx
+*.pptx
+*.fig
+*.mat
+
+!/References/*.pdf
+!/OU-process/combined_data/*.mat
+
+# very large files, so ignoring
+References/Handbook of Stochastic Methods - For Physics, Chem, Nat. Sciences (C. Gardiner) (z-lib.org).pdf
